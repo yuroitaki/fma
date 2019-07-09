@@ -13,3 +13,4 @@ __pycache__/
 *.pickle
 *.mp3
 *.pdf
+*.idea
